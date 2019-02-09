@@ -11,15 +11,15 @@
     "go/types/typeutil",
   ]
   pruneopts = "UT"
-  revision = "40960b6deb8ecdb8bcde6a8f44722731939b8ddc"
+  revision = "3744606dbb67b99c60d3f11cb10bd3f9e6dad472"
 
 [[projects]]
-  branch = "master"
-  digest = "1:3611159788efdd4e0cfae18b6ebcccbad25a2815968b0e4323b42647d201031a"
+  branch = "macos"
+  digest = "1:a3d3965002327b7b8950af0f0a27158d7a9a0887d5abf25d842f89f832ee8ad3"
   name = "tinygo.org/x/go-llvm"
   packages = ["."]
   pruneopts = "UT"
-  revision = "f420620d1a0f54417a5712260153fe861780d030"
+  revision = "2349c5f62a15fc358b0bf1ed9161f31509516f72"
 
 [solve-meta]
   analyzer-name = "dep"
